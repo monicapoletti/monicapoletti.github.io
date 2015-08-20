@@ -57,10 +57,14 @@ a {
     transition: all .2s ease-in-out;
 }
 
-a:hover,
-a:focus {
+a:hover {
     text-decoration: none;
     color: #ff9e61;
+}
+
+a:focus {
+    text-decoration: none;
+    color: #000;
 }
 
 .light {
@@ -124,6 +128,7 @@ a:focus {
 
 .navbar-custom .nav li.active a {
     color: #ff9e61;
+    text-decoration: underline;
 }
 
 .navbar-custom .nav li.active a:hover {
