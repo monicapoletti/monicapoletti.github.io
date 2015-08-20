@@ -127,7 +127,7 @@ a:focus {
 }
 
 .navbar-custom .nav li.active a {
-    color: #ff9e61;
+    color: #000;
     text-decoration: underline;
 }
 
