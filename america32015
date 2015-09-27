@@ -94,6 +94,8 @@
       </div>
   </footer>
 
+  
+
   <script type="text/javascript">
   $(function(){
     $('#portfolio').magnificPopup({

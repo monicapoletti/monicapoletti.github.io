@@ -45,7 +45,7 @@ p {
     p {
         margin: 0 0 35px;
         font-size: 16px;
-        line-height: 1.6;
+        line-height: 1.6; 
     }
 }
 
@@ -449,6 +449,10 @@ footer p {
     text-shadow: none;
     background: #fcfcfc;
     background: rgba(255,255,255,.2);
+}
+
+.box {
+  margin: 15px 0 15px 0;
 }
 
 img::selection {
